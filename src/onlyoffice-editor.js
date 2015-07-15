@@ -1,8 +1,7 @@
 /**
- * ngSignaturePad
- * https://github.com/marcorinck/ngSignaturePad
- * Copyright (c) 2013 ; Licensed MIT
- * (modified version)
+ * angular-onlyoffie
+ * https://github.com/legalthings/angular-onlyoffice
+ * Copyright (c) 2015 ; Licensed MIT
  */
 angular.module('onlyoffice', []);
 
@@ -86,4 +85,3 @@ angular.module('onlyoffice').directive('onlyofficeEditor', [function () {
   }
 }]);
 
-    

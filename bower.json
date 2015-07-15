@@ -1,7 +1,13 @@
 {
-  "name": "LegalThings OnlyOffice",
-  "private": true,
+  "name": "angular-onlyoffice",
+  "description": "Embed OnlyOffice into your angular application.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/legalthings/angular-onlyoffice.git"
+  },
   "dependencies": {
-    "angular": "1.3.2"
+    "angular": "~1.3"
   }
 }
+

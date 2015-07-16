@@ -4,7 +4,7 @@ Embed [OnlyOffice](https://www.onlyoffice.com/) into your angular application.
 
 ## Installation
 
-bower install angular-onlyoffice --save
+    bower install angular-onlyoffice --save
 
 ## Usage
 

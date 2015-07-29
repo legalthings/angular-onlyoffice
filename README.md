@@ -1,6 +1,6 @@
-# OnlyOffice Angular directive
+# ONLYOFFICE Angular directive
 
-Embed [OnlyOffice](https://www.onlyoffice.com/) into your angular application.
+Embed [ONLYOFFICE](https://www.onlyoffice.com/) into your angular application.
 
 ## Installation
 

@@ -19,7 +19,7 @@ angular.module('onlyoffice').directive('onlyofficeEditor', [function () {
   };
 
   return {
-    templateUrl: '/vendor/onlyoffice-angular/src/onlyoffice-editor.tpl.html',
+    template: '<div id="onlyoffice-editor"></div>',
     scope: {
       save: '&'
     },

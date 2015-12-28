@@ -76,7 +76,7 @@ angular.module('onlyoffice').directive('onlyofficeEditor', [function () {
     controller: ['$scope', function ($scope) {
       $scope.saveClose = function () {
         $scope.close = true;
-        var window = angular.element('iframe')[0].contentWindow;
+        var window = angular.element('onlyoffice-editor iframe')[0].contentWindow;
         window.postMessage({command: 'save'}, '*');
       };
 

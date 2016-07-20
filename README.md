@@ -1,3 +1,5 @@
+> ## This project is no longer being maintained. Feel free to fork and use it. Any issue you find, you'll need to fix yourself.
+
 # ONLYOFFICE Angular directive
 
 Embed [ONLYOFFICE](https://www.onlyoffice.com/) into your angular application.
